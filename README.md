@@ -1,12 +1,15 @@
 # LED
 
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/bbayszczak/raspberrypi-go-drivers/led)](https://pkg.go.dev/github.com/bbayszczak/raspberrypi-go-drivers/rgbled)
+[![Go Reference](https://pkg.go.dev/badge/github.com/raspberrypi-go-drivers/rgbled.svg)](https://pkg.go.dev/github.com/raspberrypi-go-drivers/rgbled)
+![golangci-lint](https://github.com/raspberrypi-go-drivers/led/workflows/golangci-lint/badge.svg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/raspberrypi-go-drivers/rgbled)](https://goreportcard.com/report/github.com/raspberrypi-go-drivers/rgbled)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This drivers allows interact with a RGB LED connected to a GPIO pin
 
 ## Documentation
 
-For full documentation, please visit [![PkgGoDev](https://pkg.go.dev/badge/github.com/bbayszczak/raspberrypi-go-drivers/led)](https://pkg.go.dev/github.com/bbayszczak/raspberrypi-go-drivers/rgbled)
+For full documentation, please visit [![Go Reference](https://pkg.go.dev/badge/github.com/raspberrypi-go-drivers/rgbled.svg)](https://pkg.go.dev/github.com/raspberrypi-go-drivers/rgbled)
 
 ## Quick start
 

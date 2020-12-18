@@ -6,7 +6,7 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/bbayszczak/raspberrypi-go-drivers/led"
+	"github.com/raspberrypi-go-drivers/led"
 )
 
 // RGBLED is the representation of an RGB LED

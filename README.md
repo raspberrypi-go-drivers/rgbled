@@ -46,3 +46,17 @@ func main() {
 	rgbLED.SetBrightness(0)
 }
 ```
+
+## Raspberry Pi compatibility
+
+This driver has has only been tested on an Raspberry Pi Zero WH using integrated bluetooth but may work well on other Raspberry Pi having integrated Bluetooth
+
+## License
+
+MIT License
+
+---
+
+Special thanks to @stianeikeland
+
+This driver is based on his work in [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio/)

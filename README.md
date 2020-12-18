@@ -1,4 +1,4 @@
-# LED
+# RGBLED
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/raspberrypi-go-drivers/rgbled.svg)](https://pkg.go.dev/github.com/raspberrypi-go-drivers/rgbled)
 ![golangci-lint](https://github.com/raspberrypi-go-drivers/led/workflows/golangci-lint/badge.svg)
